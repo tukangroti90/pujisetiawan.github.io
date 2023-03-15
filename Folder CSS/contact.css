@@ -1,0 +1,21 @@
+.gmail {
+    height: 100px;
+}
+
+.facebook {
+    height: 100px;
+}
+
+.instagram {
+    height: 100px
+}
+
+li {
+    list-style: none;
+    margin-bottom: 50px;
+}
+
+a {
+    text-align: left;
+    text-decoration: none;
+}
